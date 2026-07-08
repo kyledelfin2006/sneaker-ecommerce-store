@@ -34,3 +34,6 @@ build/
 
 ### Environment files ###
 .env
+
+## Planning ##
+FILE.STRUCTURE.txt
